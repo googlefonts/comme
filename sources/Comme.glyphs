@@ -129967,7 +129967,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2014 The Comme Project Authros (https://github.com/googlefonts/comme)";
+value = "Copyright 2014 The Comme Project Authors (https://github.com/googlefonts/comme)";
 }
 );
 },
