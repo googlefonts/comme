@@ -7,6 +7,17 @@ name = Weight;
 tag = wght;
 }
 );
+customParameters = (
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
 date = "2014-02-11 20:47:01 +0000";
 familyName = Comme;
 featurePrefixes = (
@@ -129853,33 +129864,34 @@ value = "Vernon Adams";
 },
 {
 key = designerURL;
-value = newtypography.co.uk;
+value = "http://www.sansoxygen.com";
 },
 {
 key = manufacturers;
 values = (
 {
 language = dflt;
-value = newtypography;
+value = "Vernon Adams";
 }
 );
 },
 {
 key = manufacturerURL;
-value = newtypography.co.uk;
+value = "http://www.sansoxygen.com";
 },
 {
 key = copyrights;
 values = (
 {
 language = dflt;
-value = "Digitized data Copyright (c) 2011-2014, vernon adams.";
+value = "Copyright 2014 The Comme Project Authors (https://github.com/googlefonts/comme)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is available with a FAQ at:
+http://scripts.sil.org/OFL
+Copyright 2014 The Comme Project Authors (";
 }
 );
-},
-{
-key = versionString;
-value = "Version 2";
 },
 {
 key = vendorID;
@@ -129890,18 +129902,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "Copyright (c) 2014, vernon adams.
-
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is available with a FAQ at:
-http://scripts.sil.org/OFL
-";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 },
 {
 key = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 key = trademarks;
