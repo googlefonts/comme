@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="576"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="456" y="378" type="line"/>
+      <point x="280" y="34" type="line"/>
+      <point x="108" y="379" type="line"/>
+      <point x="285" y="721" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="780" type="line"/>
+      <point x="54" y="378" type="line"/>
+      <point x="259" y="-21" type="line"/>
+      <point x="301" y="-21" type="line"/>
+      <point x="509" y="380" type="line"/>
+      <point x="305" y="780" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>lozenge</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1164</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

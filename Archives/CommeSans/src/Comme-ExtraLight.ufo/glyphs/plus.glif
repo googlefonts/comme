@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="1">
+  <advance width="559"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="251" y="533" type="line"/>
+      <point x="251" y="344" type="line"/>
+      <point x="70" y="344" type="line"/>
+      <point x="70" y="296" type="line"/>
+      <point x="251" y="296" type="line"/>
+      <point x="251" y="102" type="line"/>
+      <point x="305" y="102" type="line"/>
+      <point x="305" y="296" type="line"/>
+      <point x="482" y="296" type="line"/>
+      <point x="482" y="344" type="line"/>
+      <point x="305" y="344" type="line"/>
+      <point x="305" y="533" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>plus</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1136</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

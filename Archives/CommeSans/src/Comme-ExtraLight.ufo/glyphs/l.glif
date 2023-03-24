@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="292"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="168" y="719" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="215" y="-4" type="curve" smooth="yes"/>
+      <point x="233" y="-4"/>
+      <point x="261" y="-3"/>
+      <point x="268" y="-3" type="curve"/>
+      <point x="271" y="40" type="line"/>
+      <point x="268" y="39"/>
+      <point x="242" y="39"/>
+      <point x="226" y="39" type="curve" smooth="yes"/>
+      <point x="164" y="40"/>
+      <point x="149" y="64"/>
+      <point x="149" y="131" type="curve" smooth="yes"/>
+      <point x="149" y="762" type="line"/>
+      <point x="90" y="752" type="line"/>
+      <point x="90" y="130" type="line" smooth="yes"/>
+      <point x="90" y="15"/>
+      <point x="151" y="-4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-5</integer>
+	    <key>width</key>	    <integer>42</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>94</integer>
+	    <key>width</key>
+	    <integer>60</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>238</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
